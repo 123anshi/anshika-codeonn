@@ -1,3 +1,6 @@
+
+///DAY 4
+
 const score = 400
 // console.log(score);
 
